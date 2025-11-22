@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=RishiG0yal&label=Profile+Views&color=blue&style=flat" />
 </p>
 
-<p align="center"><i>"Code to sove problems."</i></p>
+<p align="center"><i>"Code to solve problems."</i></p>
 
 ---
 
